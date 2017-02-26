@@ -6,9 +6,11 @@ Name : __Shreyansh Gupta__
 
 Roll No. : __IIM2015001__
 
+Section : B
+
 ## Documentation
 
-
+Open Ques1/DOC/index.html
 
 ## Build Instructions
 
