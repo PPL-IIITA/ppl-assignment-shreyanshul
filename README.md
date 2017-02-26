@@ -12,6 +12,10 @@ Section : B
 
 Open Ques1/DOC/index.html
 
+## Class Diagram
+
+Open Ques1/classDiag.pdf
+
 ## Build Instructions
 
 ```
