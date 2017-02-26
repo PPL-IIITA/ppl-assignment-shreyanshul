@@ -8,7 +8,7 @@ Roll No. : __IIM2015001__
 
 ## Documentation
 
-[Question 1](https://ppl-iiita.github.io/ppl-assignment-shreyanshul/Ques1/DOC/)
+
 
 ## Build Instructions
 
