@@ -9,22 +9,25 @@ Roll No. : __IIM2015001__
 Section : B
 
 ## Documentation
-
+...
 $ cd Ques1/DOC/index.html
 $ cd Ques3/Documentation/index.html
 $ cd Ques4/Documentation/index.html
 $ cd Ques5/Documentation/index.html
 $ cd Ques6/Documentation/index.html
 $ cd Ques8/Documentation/index.html
+...
 
 ## Class Diagram
 
+...
 $ cd Ques1/classDiag.pdf
 $ cd Ques3/classDiagram.pdf
 $ cd Ques4/classDiagram.pdf
 $ cd Ques5/classDiagram.pdf
 $ cd Ques6/classDiagram.pdf
 $ cd Ques8/classDiagram.pdf
+...
 
 ## Build Instructions
 
