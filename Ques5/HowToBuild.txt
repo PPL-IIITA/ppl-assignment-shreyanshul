@@ -1,0 +1,35 @@
+_________________________________________________________________
+Tools you need to have :-
+1. python 2.7.12.
+2. pylint (for pyreverse for making class Diagram).
+3. epydoc ( to generate documentation).
+4. dot (convert dot file to pdf ).
+5. pdfunite  (to merge two pdfs of two class diagrams).
+
+_________________________________________________________________
+Generate documentation :-
+~$ cd src
+~$ epydoc -v --html * -o Documentation
+
+_________________________________________________________________
+Generate class diagram :-
+~$ cd src
+~$ pyreverse *
+~$ dot -Tpdf classes_No_Name.dot -o classDiagram1.pdf
+~$ dot -Tpdf packages_No_Name.dot -o classDiagram2.pdf
+~$ pdfunite classDiagram1.pdf classDiagram2.pdf classDiagram.pdf
+
+_________________________________________________________________
+Build code :-
+~$ cd src
+~$ python main.py
+
+_________________________________________________________________
+See documentation by :-
+~$ cd Documentation
+~$ firefox index.html
+
+
+
+
+
