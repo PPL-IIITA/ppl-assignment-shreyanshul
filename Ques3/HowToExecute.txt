@@ -1,0 +1,3 @@
+How to execute question:-
+>> cd src
+>> python main.py
