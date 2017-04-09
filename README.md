@@ -26,7 +26,7 @@ $ cd Ques1/classDiag.pdf </br>
 $ cd Ques3/classDiagram.pdf </br>
 $ cd Ques4/classDiagram.pdf </br>
 $ cd Ques5/classDiagram.pdf </br>
-$ cd Ques6/classDiagram.pdf </br>.
+$ cd Ques6/classDiagram.pdf </br>
 $ cd Ques7/classDiagram.pdf </br>
 $ cd Ques8/classDiagram.pdf </br>
 
