@@ -8,6 +8,19 @@ Roll No. : __IIM2015001__
 
 Section : B
 
+## General Instructions
+Inorder to view any question, open the folder Ques3, Ques4,... accordingly </br>
+Once inside the folder :- </br>
+Every Question folder contains :-</br>
+"Documentation" Folder ( having already provided  documentation for given question) </br>
+"src" Folder ( containing all the class files )</br>
+"classDiagram.pdf" ( having Class Diagram of respective Question )</br>
+Open "HowToBuild.txt" and</br>
+Open "HowToExecute.txt"</br></br>
+To view already provided Documentation and Class Diagrams of particular question directly , follow the description below -
+
+
+
 ## Documentation
 
 $ cd Ques1/DOC/index.html </br>
