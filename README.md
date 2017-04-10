@@ -35,12 +35,12 @@ $ cd Ques8/classDiagram.pdf </br>
 
 ```
 $ python Ques1/main.py
-$ python Ques3/main.py
-$ python Ques4/main.py
-$ python Ques5/main.py
-$ python Ques6/main.py
-$ python Ques7/main.py
-$ python Ques8/main.py
+$ python Ques3/src/main.py
+$ python Ques4/src/main.py
+$ python Ques5/src/main.py
+$ python Ques6/src/main.py
+$ python Ques7/src/main.py
+$ python Ques8/src/main.py
 ```
 
 ## Platform
