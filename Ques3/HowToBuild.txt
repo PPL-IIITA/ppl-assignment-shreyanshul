@@ -1,6 +1,6 @@
 _________________________________________________________________
 Tools you need to have :-
-1. python 2.7.12.
+1. python 2.7.6.
 2. pylint (for pyreverse for making class Diagram).
 3. epydoc ( to generate documentation).
 4. dot (convert dot file to pdf ).
